@@ -1,0 +1,8 @@
+@media (max-width:988px) {
+    .hide{
+        display: none;
+    }
+    .cards{
+        width: 100%;
+    }
+}

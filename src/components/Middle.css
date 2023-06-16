@@ -1,0 +1,10 @@
+@media (max-width:1000px){
+    .middle-pc{
+        display: none;
+    }
+}
+@media (min-width:1000px) {
+    .middle-mobile{
+        display: none;
+    }
+}

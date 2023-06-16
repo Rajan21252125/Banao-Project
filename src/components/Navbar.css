@@ -1,0 +1,19 @@
+.custom-search-input {
+    width: 375px;
+    background-color: #f2f2f2;
+  }
+  
+  @media (max-width: 800px) {
+    .custom-search-input {
+      display: none;
+    }
+    .pc{
+      display: none;
+    }
+  }
+  @media (min-width:800px){
+    .mobile{
+      display: none;
+    }
+  }
+  
